@@ -1,2 +1,2 @@
 # Aws-step-functions-nodejs
-Step function to automate sequencing of lambda function.
+Step Function To Automate Sequencing Of Lambda Function.
